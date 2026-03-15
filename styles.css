@@ -10,6 +10,7 @@ height: 100px;
 top: 300px;
 position: absolute;
 left: 200px;
+transition: linear 0.5s;
 }
 
 .bin{
